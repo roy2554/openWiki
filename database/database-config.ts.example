@@ -1,0 +1,9 @@
+// Please make sure change filename to 'database-config.ts'
+
+module.exports ={
+    connect: {
+        key: "your-mongo-db-connect-key"
+    }
+}
+
+export {}
